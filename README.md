@@ -6,12 +6,12 @@ A comprehensive cryptocurrency wallet application developed with React.js. This 
 
 # Key Features:
 
-Add and remove assets from your wallet.
+* Add and remove assets from your wallet.
 
-View real-time asset prices and balance updates.
+* View real-time asset prices and balance updates.
 
-Track price changes over time.
+* Track price changes over time.
 
-Modern UI using Ant Design and custom hooks.
+* Modern UI using Ant Design and custom hooks.
 
-Built with React.js, HTML, CSS, Vite, and JavaScript.
+* Built with React.js, HTML, CSS, Vite, and JavaScript.
